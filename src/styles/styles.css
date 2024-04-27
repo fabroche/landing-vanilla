@@ -18,3 +18,7 @@ color: rgb(244,139,59);
 .profile-banner--container img {
     border-radius: 50%;
 }
+
+.github-icon {
+    margin-left: 5px;
+}
