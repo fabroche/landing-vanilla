@@ -1,0 +1,20 @@
+:root {
+    --color-fireship: linear-gradient(45deg, rgb(244,139,59), rgb(244,97,89));
+}
+
+.channel-link {
+color: rgb(244,139,59);
+}
+.contacts {
+    justify-content: center;
+    align-items: center;
+}
+.profile-banner--container {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.profile-banner--container img {
+    border-radius: 50%;
+}

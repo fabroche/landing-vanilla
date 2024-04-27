@@ -1,0 +1,17 @@
+{
+  "name": "landing-vanilla",
+  "version": "1.0.0",
+  "description": "A practice landing page with vanilla js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.1.1",
+    "node-fetch": "^3.3.2"
+  }
+}
