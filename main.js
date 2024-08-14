@@ -23,7 +23,7 @@ function main() {
             url: 'https://fabroche-simple-e-commerce.netlify.app/',
             description: 'A simple e-commerce app maked with the intencion of practice the fundamentals of React JS and Tailwind CSS (Loading skeleton, React Context, React Hooks, React Custom Hooks), this app use the fake store API.',
             github: 'https://github.com/fabroche/simple-e-commerce',
-            image: './src/assets/img/lootify-preview.png'
+            image: './src/assets/img/Lootify-preview.png'
         },
         {
             title: 'Moviescape',
