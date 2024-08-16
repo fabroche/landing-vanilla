@@ -1,5 +1,25 @@
+
 :root {
     --color-fireship: linear-gradient(45deg, rgb(244,139,59), rgb(244,97,89));
+}
+
+@layer utilities {
+    .modern-scroll-bar::-webkit-scrollbar {
+        background-color: transparent;
+        width: 6px;
+    }
+
+
+    .modern-scroll-bar::-webkit-scrollbar-track {
+        /*background: orange; !* Color del área de seguimiento *!*/
+    }
+
+    .modern-scroll-bar::-webkit-scrollbar-thumb {
+        padding: 6px;
+        background-color: #4f46e5; /* Color del thumb (deslizador) */
+        border-radius: 20px; /* Redondez del thumb */
+        border: 3px solid #4f46e5; /* Crea un borde alrededor del thumb */
+    }
 }
 
 .channel-link {
